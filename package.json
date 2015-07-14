@@ -1,0 +1,24 @@
+{
+    "name": "express-http-redirect",
+    "version": "1.0.0",
+    "description": "Express middleware that redirects non-secure access to HTTPS (optimized for Azure and AWS).",
+    "main": "redirect.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/buchanan-edwards/express-https-redirect.git"
+    },
+    "keywords": [
+        "express",
+        "https",
+        "redirect"
+    ],
+    "author": "Frank Hellwig <frank.hellwig@buchanan-edwards.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/buchanan-edwards/express-https-redirect/issues"
+    },
+    "homepage": "https://github.com/buchanan-edwards/express-https-redirect"
+}
