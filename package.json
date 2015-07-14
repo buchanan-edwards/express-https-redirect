@@ -1,5 +1,5 @@
 {
-    "name": "express-http-redirect",
+    "name": "express-https-redirect",
     "version": "1.0.0",
     "description": "Express middleware that redirects non-secure access to HTTPS (optimized for Azure and AWS).",
     "main": "redirect.js",
